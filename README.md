@@ -10,8 +10,7 @@ Welcome to the Excel Store Dataset Dashboard and Data Analytics project! This re
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -74,11 +73,5 @@ Managing and understanding data is crucial for making informed decisions. This p
    - Save your updated Excel file with the dashboard.
    - Share the insights and visualizations with your team or stakeholders.
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Happy data cleansing, analysis, and dashboard creation! If you have any questions or encounter any issues, feel free to open an [issue](https://github.com/yourusername/excel-store-analytics/issues). Your feedback and contributions are highly appreciated.
