@@ -1,6 +1,6 @@
 # Excel Store Dataset Dashboard and Data Analytics
 
-![Excel Dashboard](dashboard_image.png)
+![Excel Dashboard](https://github.com/MrAkash920/Dashboard-design-and-Report-of-an-store-using-Excel/blob/101697b602eae712ac5383296377d842e849009a/Screenshot%202023-10-31%20212405.png)
 
 Welcome to the Excel Store Dataset Dashboard and Data Analytics project! This repository contains the code and resources necessary to create a powerful Excel dashboard for your store dataset, as well as tools for data cleansing and analytics. Whether you're a store owner, data analyst, or anyone interested in visualizing and analyzing data, this project can help you gain valuable insights from your Excel dataset.
 
